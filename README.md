@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Solves sudoku using Backtracking
+Solves sudoku using Backtracking.
 
 # Instructions
-To use, install pygame and run main.py
+To use, install pygame and run main.py.
